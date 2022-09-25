@@ -1,18 +1,8 @@
-# template
+# pancreas-undifferentiated-osteoclast
 
 
 
-**template for pathology atlas repositories**
-
-
-
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-
-
-> do not forget to activate github pages for the new repository
+**pancreas-undifferentiated-osteoclast for pathology atlas repositories**
 
 
 
@@ -26,7 +16,7 @@ vips dzsave HE.svs HE
 
 
 
-```{r language template, echo=FALSE, include=TRUE}
+```{r language pancreas-undifferentiated-osteoclast, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -37,7 +27,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-## TemplateTR
+## pankreas, müsinöz adenokarsinom zemininde gelişmiş, osteoklast benzeri dev hücreler içeren indiferansiye karsinom
 
 ```
 
@@ -46,7 +36,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-## TemplateEN
+## pancreas, undifferentiated carcinoma with osteoclast-like giant cells, arising within a mucinous adenocarcinoma
 
 ```
 
@@ -55,14 +45,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**pankreas, müsinöz adenokarsinom zemininde gelişmiş, osteoklast benzeri dev hücreler içeren indiferansiye karsinom**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/pancreas-undifferentiated-osteoclast/HE.html](https://pathologyatlas.github.io/pancreas-undifferentiated-osteoclast/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://pathologyatlas.github.io/pancreas-undifferentiated-osteoclast/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -71,14 +61,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**pancreas, undifferentiated carcinoma with osteoclast-like giant cells, arising within a mucinous adenocarcinoma**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/pancreas-undifferentiated-osteoclast/HE.html](https://pathologyatlas.github.io/pancreas-undifferentiated-osteoclast/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://pathologyatlas.github.io/pancreas-undifferentiated-osteoclast/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
