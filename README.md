@@ -7,14 +7,6 @@
 
 
 
-```zsh
-
-vips dzsave HE.svs HE
-
-```
-
-
-
 
 ```{r language pancreas-undifferentiated-osteoclast, echo=FALSE, include=TRUE}
 
